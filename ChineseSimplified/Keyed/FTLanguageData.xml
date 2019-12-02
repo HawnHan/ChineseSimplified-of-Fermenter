@@ -49,6 +49,13 @@
 
   <Fermenter.SpoiledMsg>发酵器中有变质产物。</Fermenter.SpoiledMsg>
 
+  <Fermenter.tempfine>理想</Fermenter.tempfine>
+  <Fermenter.tempbad>非理想</Fermenter.tempbad>
+  <Fermenter.temppoor>糟糕</Fermenter.temppoor>
+  <Fermenter.tempregulated>自控温程序已运行。</Fermenter.tempregulated>
+  <Fermenter.tempwarning>是 {0} 的发酵温度</Fermenter.tempwarning>
+  <Fermenter.tempmsg>室温: {0} 摄氏度，{1}。</Fermenter.tempmsg>
+
   <!--  Status -->
   <Fermenter.Idle>闲置</Fermenter.Idle>
   <Fermenter.WaitFill>装填中</Fermenter.WaitFill>
