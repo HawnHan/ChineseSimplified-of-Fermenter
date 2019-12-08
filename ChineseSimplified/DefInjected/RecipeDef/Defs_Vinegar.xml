@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Make_FRMT_VinegarPrecursor.label>制作醋的前体</Make_FRMT_VinegarPrecursor.label>
-  <Make_FRMT_VinegarPrecursor.description>用乙醇和醋酸杆菌酿制醋的前体。</Make_FRMT_VinegarPrecursor.description>
-  <Make_FRMT_VinegarPrecursor.jobString>正在制作醋的前体。</Make_FRMT_VinegarPrecursor.jobString>
+  <Make_FRMT_VinegarPrecursor.label>制作半成品醋</Make_FRMT_VinegarPrecursor.label>
+  <Make_FRMT_VinegarPrecursor.description>用乙醇和醋酸杆菌酿制半成品醋。</Make_FRMT_VinegarPrecursor.description>
+  <Make_FRMT_VinegarPrecursor.jobString>正在制作半成品醋。</Make_FRMT_VinegarPrecursor.jobString>
 
 
   <!-- Acetic Acid Bacteria -->
