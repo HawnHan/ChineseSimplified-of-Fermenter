@@ -29,7 +29,7 @@
 
   <Fermenter.StockLabel>(限量:{0}, ({1}%)</Fermenter.StockLabel>
   <Fermenter.StockLabelNL>(无限)</Fermenter.StockLabelNL>
-  <Fermenter.SelectStockLimit>选择储量上限</Fermenter.SelectStockLimit>
+  <Fermenter.SelectStockLimit>选择基地中该产品的库存上限</Fermenter.SelectStockLimit>
 
   <Fermenter.StockNoLimit>无限</Fermenter.StockNoLimit>
 
