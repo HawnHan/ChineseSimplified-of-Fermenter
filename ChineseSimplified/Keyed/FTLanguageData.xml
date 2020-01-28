@@ -13,8 +13,8 @@
   <Fermenter.prodIngest>产物未被定义(无法识别)为可食用物。</Fermenter.prodIngest>
   <Fermenter.ErrThingIng>发酵配方: {0} 的产物:( {2} )为 {1}。</Fermenter.ErrThingIng>
   <Fermenter.ErrResearch>发酵配方: {0} 中的研究项目( {1} )未定义(无法识别)。</Fermenter.ErrResearch>
-  <Fermenter.WarnLowHrs>发酵配方: {0} 的发酵周期过短: {1} 小时。请检查发酵周期的更新数值，最好大于 {2}。修正数值。</Fermenter.WarnLowHrs>
-  <Fermenter.WarnHighHrs>发酵配方: {0} 的发酵周期过长: {1} 小时。请检查发酵周期的更新数值，最好小于 {2}。修正数值。</Fermenter.WarnHighHrs>
+  <Fermenter.WarnLowHrs>发酵配方: {0} 的发酵周期过短: {1} 小时。请检查发酵周期的更新数值，最好大于 {2}。已修正数值。</Fermenter.WarnLowHrs>
+  <Fermenter.WarnHighHrs>发酵配方: {0} 的发酵周期过长: {1} 小时。请检查发酵周期的更新数值，最好小于 {2}。已修正数值。</Fermenter.WarnHighHrs>
   <Fermenter.CheckProcess>发酵器(Mod)已检测到 {0} 个发酵配方。</Fermenter.CheckProcess>
 
   <!--  Fermenter -->
@@ -66,7 +66,5 @@
   <Fermenter.Spoiled>已变质</Fermenter.Spoiled>
   <Fermenter.Resetting>重置中</Fermenter.Resetting>
   <Fermenter.Cancelling>取消中</Fermenter.Cancelling>
-
-  <!--<Ferment.MakeProcess>用 {1} 生产 {0}。</Ferment.MakeProcess>-->
 
 </LanguageData>
